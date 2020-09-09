@@ -1,0 +1,59 @@
+557.2463;None;TrialStart;None
+557.2463;None;TrialEnd;
+557.2808;D4;IsoAnalysis;Fitts values: Deg. Distance: 7.320782 Deg. Width: 4.673363 Deg. Difficulty Index: 1.359797 Bit; Eul.Distance: 0.25 Eul. Width: 0.16 Eul. Difficulty Index: 1.357552 Bit
+566.843;D4;TrialStart;D4
+566.843;D4;TaskStart;Run: 1
+568.9882;D4;Hit;0.147522
+570.9525;D4;TaskStart;Run: 2
+572.471;D4;Hit;0.4551392
+574.1199;D4;TaskStart;Run: 3
+575.5343;D4;Hit;0.4350586
+577.0969;D4;TaskStart;Run: 4
+578.7291;D4;Hit;0.5144043
+580.3782;D4;TaskStart;Run: 5
+581.8093;D4;Hit;0.3995361
+583.4457;D4;TaskStart;Run: 6
+584.6255;D4;Hit;0.4473877
+586.7911;D4;TaskStart;Run: 7
+587.8715;D4;Hit;0.3168335
+589.5742;D4;TaskStart;Run: 8
+590.8369;D4;Hit;0.2174683
+592.4843;D4;TaskStart;Run: 9
+593.8671;D4;Hit;0.5310059
+595.5516;D4;TaskStart;Run: 10
+597.1657;D4;Hit;0.6373901
+598.8152;D4;TaskStart;Run: 11
+600.144;D4;Hit;0.5006104
+601.6921;D4;TaskStart;Run: 12
+603.0086;D4;Hit;0.08459473
+604.9577;D4;TaskStart;Run: 13
+606.2379;D4;Hit;0.5493774
+608.0577;D4;TaskStart;Run: 14
+609.3709;D4;Hit;0.3353271
+611.2332;D4;TaskStart;Run: 15
+612.57;D4;Hit;0.4358521
+614.0824;D4;TaskStart;Run: 16
+615.3175;D4;Hit;0.3878174
+616.8834;D4;TaskStart;Run: 17
+618.178;D4;Hit;0.1170654
+620.345;D4;TaskStart;Run: 18
+623.2103;D4;Hit;0.3998413
+623.2913;D4;Miss;
+624.6108;D4;TaskStart;Run: 19
+625.8226;D4;Hit;0.449646
+627.4532;D4;TaskStart;Run: 20
+628.6685;D4;Hit;0.4946289
+630.451;D4;TaskStart;Run: 21
+631.5678;D4;Hit;0.5139771
+633.2818;D4;TaskStart;Run: 22
+634.4655;D4;Hit;0.4674683
+636.1642;D4;TaskStart;Run: 23
+637.7798;D4;Hit;0.8153687
+639.4263;D4;TaskStart;Run: 24
+640.9258;D4;Hit;0.5820313
+642.7235;D4;TaskStart;Run: 25
+644.3558;D4;Hit;0.6328735
+645.9227;D4;TrialEnd;
+645.9712;D3;IsoAnalysis;Fitts values: Deg. Distance: 7.392394 Deg. Width: 2.360243 Deg. Difficulty Index: 2.046857 Bit; Eul.Distance: 0.25 Eul. Width: 0.08 Eul. Difficulty Index: 2.044394 Bit
+655.0195;D3;Miss;
+655.0983;D3;Miss;

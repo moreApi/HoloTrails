@@ -1,0 +1,158 @@
+15.50987;Menu;Hit;Dinge
+18.11007;Menu;Hit;Pflanzen
+19.72551;Menu;Hit;Tiere
+21.1895;Menu;Hit;Pflanzen
+23.70466;Menu;Hit;Tiere
+28.06885;Menu;Hit;Säuger
+47.98658;Menu;Hit;Reptilien
+49.26744;Menu;Hit;Vögel
+52.18219;Menu;Hit;Reptilien
+53.46305;Menu;Hit;Säuger
+55.14438;Menu;Hit;Insekten
+56.6777;Menu;Hit;Fische
+60.05792;Menu;Hit;Tiere
+61.62293;Menu;Hit;Dinge
+63.20874;Menu;Hit;Essen
+65.08591;Menu;Hit;Werkzeug
+67.23464;Menu;Hit;Kleidung
+68.8371;Menu;Hit;Fahrzeuge
+70.68147;Menu;Hit;Pflanzen
+72.37968;Menu;Hit;Sträucher
+75.46233;Menu;Hit;Blumen
+77.29272;Menu;Hit;Bäume
+81.78938;Menu;Hit;Pflanzen
+83.67011;Menu;TaskStart;0. Hut
+86.00245;Menu;Hit;Dinge
+87.03373;Menu;Hit;Werkzeug
+87.77097;Menu;Hit;Kleidung
+89.53642;Menu;Hit;Hut
+91.71387;Menu;TaskStart;1. Schwan
+93.16807;Menu;Hit;Tiere
+96.00805;Menu;Hit;Säuger
+100.0225;Menu;Hit;Vögel
+101.6062;Menu;Hit;Schwan
+104.6059;Menu;TaskStart;2. Auto
+106.7165;Menu;Hit;Dinge
+108.7174;Menu;Hit;Fahrzeuge
+110.6185;Menu;Hit;Auto
+112.6117;Menu;TaskStart;3. Ahorn
+114.2924;Menu;Hit;Pflanzen
+116.3452;Menu;Hit;Bäume
+118.1242;Menu;Hit;Ahorn
+119.9895;Menu;TaskStart;4. Maus
+120.8538;Menu;Hit;Tiere
+122.9027;Menu;Hit;Säuger
+124.4018;Menu;Hit;Maus
+125.8858;Menu;Hit;Säuger
+127.5987;Menu;Hit;Dinge
+128.214;Menu;TaskStart;5. Auto
+128.6843;Menu;Hit;Fahrzeuge
+130.0293;Menu;Hit;Auto
+131.9772;Menu;TaskStart;6. Aal
+133.3764;Menu;Hit;Tiere
+135.0455;Menu;Hit;Fische
+136.3405;Menu;Hit;Aal
+137.8921;Menu;TaskStart;7. Fahrrad
+138.0415;Menu;Hit;Insekten
+138.9881;Menu;Hit;Dinge
+140.4034;Menu;Hit;Fahrzeuge
+141.6044;Menu;Hit;Fahrrad
+143.5523;Menu;TaskStart;8. Ahorn
+144.512;Menu;Hit;Pflanzen
+146.0094;Menu;Hit;Bäume
+147.1594;Menu;Hit;Ahorn
+148.9393;Menu;TaskStart;9. Lineal
+149.9044;Menu;Hit;Dinge
+151.5392;Menu;Hit;Werkzeug
+153.0245;Menu;Hit;Lineal
+154.234;Menu;Hit;Werkzeug
+154.9674;Menu;TaskStart;10. Haselnuss
+156.3125;Menu;Hit;Pflanzen
+158.1613;Menu;Hit;Bäume
+159.4932;Menu;Hit;Bäume
+161.3748;Menu;Hit;Sträucher
+163.0897;Menu;Hit;Haselnuss
+164.4389;Menu;Hit;Blumen
+177.5105;Menu;TaskStart;11. Spatz
+180.0439;Menu;Hit;Tiere
+183.3258;Menu;Hit;Vögel
+185.4886;Menu;Hit;Spatz
+187.2885;Menu;TaskStart;12. Schnitzel
+188.5175;Menu;Hit;Dinge
+190.1463;Menu;Hit;Essen
+191.2297;Menu;Hit;Schnitzel
+192.9996;Menu;TaskStart;13. Huhn
+194.1457;Menu;Hit;Tiere
+195.8297;Menu;Hit;Säuger
+198.7083;Menu;Hit;Vögel
+200.8567;Menu;Hit;Huhn
+202.4087;Menu;TaskStart;14. Bus
+203.6394;Menu;Hit;Dinge
+205.869;Menu;Hit;Fahrzeuge
+206.9367;Menu;Hit;Bus
+208.7489;Menu;TaskStart;15. Rabe
+209.7357;Menu;Hit;Tiere
+211.6517;Menu;Hit;Vögel
+213.8532;Menu;Hit;Rabe
+215.4478;Menu;TaskStart;16. Schwan
+216.9909;Menu;Hit;Schwan
+222.4341;Menu;Hit;Tiere
+223.5194;Menu;Hit;Vögel
+224.7328;Menu;Hit;Schwan
+226.5815;Menu;TaskStart;17. Holunder
+227.656;Menu;Hit;Pflanzen
+229.4861;Menu;Hit;Sträucher
+230.9676;Menu;Hit;Holunder
+232.5031;Menu;TaskStart;18. Auto
+233.5358;Menu;Hit;Dinge
+234.4825;Menu;Hit;Fahrzeuge
+235.7006;Menu;Hit;Auto
+237.3818;Menu;TaskStart;19. Schnitzel
+238.4512;Menu;Hit;Dinge
+239.6009;Menu;Hit;Werkzeug
+240.3338;Menu;Hit;Essen
+241.7156;Menu;Hit;Schnitzel
+243.6788;Menu;TaskStart;20. Kleid
+245.005;Menu;Hit;Dinge
+246.6524;Menu;Hit;Kleidung
+248.502;Menu;Hit;Kleid
+263.9217;Menu;TaskStart;21. Rose
+264.6542;Menu;Hit;Pflanzen
+266.6053;Menu;Hit;Blumen
+267.6026;Menu;Hit;Rose
+268.7694;Menu;TaskStart;22. Brot
+269.789;Menu;Hit;Dinge
+271.3035;Menu;Hit;Essen
+272.8536;Menu;Hit;Brot
+274.501;Menu;TaskStart;23. Haselnuss
+275.4643;Menu;Hit;Pflanzen
+276.3456;Menu;Hit;Sträucher
+278;Menu;Hit;Haselnuss
+279.2104;Menu;TaskStart;24. Schlange
+280.1638;Menu;Hit;Tiere
+281.3262;Menu;Hit;Reptilien
+282.6416;Menu;Hit;Schlange
+284.1745;Menu;TaskStart;25. Bus
+285.4722;Menu;Hit;Dinge
+286.5667;Menu;Hit;Fahrzeuge
+287.884;Menu;Hit;Bus
+289.8979;Menu;TaskStart;26. Haselnuss
+290.2312;Menu;Hit;Pflanzen
+291.6273;Menu;Hit;Sträucher
+293.0524;Menu;Hit;Haselnuss
+294.1915;Menu;TaskStart;27. Kleid
+295.5506;Menu;Hit;Dinge
+296.6959;Menu;Hit;Kleidung
+298.1954;Menu;Hit;Kleid
+299.2601;Menu;TaskStart;28. Fahrrad
+300.7399;Menu;Hit;Dinge
+301.6347;Menu;Hit;Fahrzeuge
+302.8008;Menu;Hit;Fahrrad
+304.0016;Menu;TaskStart;29. Eiche
+305.4368;Menu;Hit;Pflanzen
+309.25;Menu;Hit;Bäume
+311.5008;Menu;Hit;Eiche
+312.8627;Menu;TaskStart;30. Birke
+313.8387;Menu;Hit;Pflanzen
+314.8334;Menu;Hit;Bäume
+316.3489;Menu;Hit;Birke

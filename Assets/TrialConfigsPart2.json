@@ -1,0 +1,52 @@
+{
+	"configs": [
+	{
+		"name": "B3",
+		"zDistance": 2,
+		"targetDistance": 0.25,
+		"targetSize": 0.08,
+		"feedbackConditions": ["Glow", "Sound"],
+		"selectionCondition": ["Clicker"],
+		"runs":25
+	},{
+		"name": "B4",
+		"zDistance": 2,
+		"targetDistance": 0.25,
+		"targetSize": 0.08,
+		"feedbackConditions": ["Glow"],
+		"selectionCondition": ["Dwell","0.500"],
+		"runs":25
+	},{
+		"name": "C1",
+		"zDistance": 2,
+		"targetDistance": 0.25,
+		"targetSize": 0.04,
+		"feedbackConditions": ["Glow", "Cursor"],
+		"selectionCondition": ["AirTap"],
+		"runs":25
+	},{
+		"name": "C3",
+		"zDistance": 2,
+		"targetDistance": 0.25,
+		"targetSize": 0.04,
+		"feedbackConditions": ["Glow", "Cursor"],
+		"selectionCondition": ["Dwell","0.500"],
+		"runs":25
+	},{
+		"name": "D1",
+		"zDistance": 2,
+		"targetDistance": 0.25,
+		"targetSize": 0.04,
+		"feedbackConditions": ["Glow", "Cursor","Gravity"],
+		"selectionCondition": ["Clicker"],
+		"runs":25
+	},{
+		"name": "D2",
+		"zDistance": 2,
+		"targetDistance": 0.25,
+		"targetSize": 0.04,
+		"feedbackConditions": ["Glow", "Cursor","Sound"],
+		"selectionCondition": ["Clicker"],
+		"runs":25
+	}]
+}

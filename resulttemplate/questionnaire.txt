@@ -1,0 +1,80 @@
+#1 Alter (Zahl)
+
+#2 Geschlecht (m / w)
+
+#3 Sehhilfe (Ja / Nein)
+
+#4 Wie würdest du deine Technikaffinität einschätzen? (1 - gar nicht, 7 - sehr)
+
+#5 War die Aufgabenstellung klar? (1 - gar nicht, 7 - sehr)
+
+#6 Voherige Erfahrungen mit Virtual Reality / Augmented Reality / Eye Tracking / Head Tracking / HoloLens
+
+
+### Die folgenden Fragen im Vergleich zu den jeweiligen anderen Techniken (Fokus,Geste,Clicker,Ohne Cursor) beantworten.
+##Fokusselektion (Lange auf einen Button gucken zum Auswählen)
+#f1 Wie ermüdend/anstrengend war die Technik? (1 - gar nicht, 7 - sehr)
+
+#f2 Wie präzise fühlte sie sich an? (1 - gar nicht, 7 - sehr)
+
+#f3 War es möglich mit der Technik schnell zu arbeiten? (1 - gar nicht, 7 - sehr)
+
+#f4 Ist die Technik für den täglichen Gebrauch geeignet? (1 - gar nicht, 7 - sehr)
+
+#f5 Kommentar
+
+
+
+##Gestenselektion (Handgeste zum Auswählen)
+#g1 Wie ermüdend/anstrengend war die Technik? (1 - gar nicht, 7 - sehr)
+
+#g2 Wie präzise fühlte sie sich an? (1 - gar nicht, 7 - sehr)
+
+#g3 War es möglich mit der Technik schnell zu arbeiten? (1 - gar nicht, 7 - sehr)
+
+#g4 Ist die Technik für den täglichen Gebrauch geeignet? (1 - gar nicht, 7 - sehr)
+
+#g5 Kommentar
+
+
+
+##Clikerselektion (Buttongerät zum Auswählen)
+#c1 Wie ermüdend/anstrengend war die Technik? (1 - gar nicht, 7 - sehr)
+
+#c2 Wie präzise fühlte sie sich an? (1 - gar nicht, 7 - sehr)
+
+#c3 War es möglich mit der Technik schnell zu arbeiten? (1 - gar nicht, 7 - sehr)
+
+#c4 Ist die Technik für den täglichen Gebrauch geeignet? (1 - gar nicht, 7 - sehr)
+
+#c5 Kommentar
+
+
+
+##Cursorlos (Kein Curser (Blauer Kreis) vorhanden)
+#o1 Wie ermüdend/anstrengend war die Technik? (1 - gar nicht, 7 - sehr)
+
+#o2 Wie präzise fühlte sie sich an? (1 - gar nicht, 7 - sehr)
+
+#o3 War es möglich mit der Technik schnell zu arbeiten? (1 - gar nicht, 7 - sehr)
+
+#o4 Ist die Technik für den täglichen Gebrauch geeignet? (1 - gar nicht, 7 - sehr)
+
+#o5 Kommentar
+
+
+
+#k Allgemeine Kommentare
+
+
+
+
+
+
+
+
+#menu
+glow, cursor, grav - clicker - list
+glow, cursor - dwell 500 - list
+glow, cursor - clicker - list
+

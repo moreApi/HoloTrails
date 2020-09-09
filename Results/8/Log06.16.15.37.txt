@@ -1,0 +1,159 @@
+13.80427;Menu;Hit;Dinge
+17.93311;Menu;Hit;Essen
+25.59387;Menu;Hit;Käse
+27.5759;Menu;Hit;Werkzeug
+29.75727;Menu;Hit;Pflanzen
+30.73905;Menu;Hit;Blumen
+31.90702;Menu;Hit;Rose
+32.8877;Menu;Hit;Lilie
+33.93609;Menu;Hit;Sträucher
+36.85039;Menu;Hit;Holunder
+38.78431;Menu;Hit;Dinge
+40.16493;Menu;Hit;Essen
+41.33164;Menu;Hit;Brot
+43.42995;Menu;Hit;Werkzeug
+44.79613;Menu;Hit;Kleidung
+45.81492;Menu;Hit;Fahrzeuge
+47.15951;Menu;Hit;Pflanzen
+48.27778;Menu;Hit;Blumen
+49.17802;Menu;Hit;Bäume
+50.20597;Menu;Hit;Sträucher
+51.3898;Menu;Hit;Tiere
+77.81659;Menu;TaskStart;0. Brot
+78.66467;Menu;Hit;Dinge
+80.1995;Menu;Hit;Essen
+81.33039;Menu;Hit;Brot
+83.42827;Menu;TaskStart;1. Haselnuss
+84.99781;Menu;Hit;Pflanzen
+86.04356;Menu;Hit;Blumen
+87.66052;Menu;Hit;Sträucher
+88.96148;Menu;Hit;Haselnuss
+90.47205;Menu;TaskStart;2. Tulpe
+91.88499;Menu;Hit;Pflanzen
+92.96896;Menu;Hit;Blumen
+94.6511;Menu;Hit;Tulpe
+96.06516;Menu;Hit;Blumen
+98.99854;Menu;Hit;Tulpe
+102.4449;Menu;Hit;Tulpe
+106.2916;Menu;TaskStart;3. Fliege
+107.4557;Menu;Hit;Tiere
+108.5237;Menu;Hit;Säuger
+109.7903;Menu;Hit;Insekten
+111.6916;Menu;Hit;Fliege
+113.5039;Menu;TaskStart;4. Kleid
+114.7946;Menu;Hit;Dinge
+116.0416;Menu;Hit;Kleidung
+117.323;Menu;Hit;Kleid
+119.1768;Menu;TaskStart;5. Motorrad
+120.6025;Menu;Hit;Dinge
+122.6041;Menu;Hit;Fahrzeuge
+123.9378;Menu;Hit;Motorrad
+125.6671;Menu;TaskStart;6. Spatz
+126.7627;Menu;Hit;Tiere
+129.5612;Menu;Hit;Vögel
+131.381;Menu;Hit;Spatz
+133.1308;Menu;TaskStart;7. Birke
+134.6794;Menu;Hit;Pflanzen
+135.8245;Menu;Hit;Bäume
+136.8914;Menu;Hit;Birke
+138.4868;Menu;TaskStart;8. Lineal
+139.8054;Menu;Hit;Dinge
+140.7861;Menu;Hit;Kleidung
+141.7868;Menu;Hit;Werkzeug
+143.1537;Menu;Hit;Lineal
+145.0815;Menu;Hit;Nagel
+146.2831;Menu;Hit;Lineal
+146.317;Menu;TaskStart;9. Biene
+148.29;Menu;Hit;Pflanzen
+149.2737;Menu;Hit;Tiere
+151.1868;Menu;Hit;Insekten
+151.2214;Menu;Hit;Insekten
+152.3253;Menu;Hit;Biene
+153.3217;Menu;TaskStart;10. Schlange
+154.7013;Menu;Hit;Tiere
+156.1675;Menu;Hit;Reptilien
+157.3357;Menu;Hit;Schlange
+164.1767;Menu;TaskStart;11. Huhn
+169.5129;Menu;Hit;Tiere
+174.9723;Menu;Hit;Vögel
+177.0425;Menu;Hit;Huhn
+179.8026;Menu;Hit;Huhn
+180.1678;Menu;TaskStart;12. Aal
+182.8835;Menu;Hit;Tiere
+185.8824;Menu;Hit;Fische
+187.5794;Menu;Hit;Aal
+189.0808;Menu;TaskStart;13. Maus
+190.2931;Menu;Hit;Tiere
+192.9422;Menu;Hit;Säuger
+193.9565;Menu;Hit;Maus
+195.9059;Menu;TaskStart;14. Kastanie
+196.8344;Menu;Hit;Pflanzen
+199.4675;Menu;Hit;Bäume
+201.0682;Menu;Hit;Kastanie
+202.6833;Menu;TaskStart;15. Krokodil
+203.7007;Menu;Hit;Tiere
+205.3504;Menu;Hit;Reptilien
+206.6822;Menu;Hit;Krokodil
+208.1643;Menu;TaskStart;16. Hobel
+209.8129;Menu;Hit;Dinge
+211.06;Menu;Hit;Werkzeug
+212.8428;Menu;Hit;Hobel
+214.6434;Menu;TaskStart;17. Rose
+215.8396;Menu;Hit;Pflanzen
+217.0911;Menu;Hit;Blumen
+218.0351;Menu;Hit;Rose
+219.2032;Menu;TaskStart;18. Katze
+220.4836;Menu;Hit;Tiere
+221.7687;Menu;Hit;Säuger
+223.3513;Menu;Hit;Katze
+224.7144;Menu;TaskStart;19. Eiche
+226.3887;Menu;Hit;Pflanzen
+227.3069;Menu;Hit;Bäume
+228.6895;Menu;Hit;Eiche
+230.4042;Menu;TaskStart;20. Socken
+231.7884;Menu;Hit;Dinge
+233.151;Menu;Hit;Kleidung
+235.5361;Menu;Hit;Socken
+240.9298;Menu;TaskStart;21. Schlange
+242.4528;Menu;Hit;Tiere
+244.2166;Menu;Hit;Reptilien
+245.0852;Menu;Hit;Schlange
+246.6324;Menu;TaskStart;22. Rabe
+247.7324;Menu;Hit;Tiere
+249.2652;Menu;Hit;Vögel
+250.5016;Menu;Hit;Rabe
+253.3302;Menu;TaskStart;23. Weide
+254.4454;Menu;Hit;Pflanzen
+255.2941;Menu;Hit;Bäume
+257.4424;Menu;Hit;Sträucher
+258.3927;Menu;Hit;Weide
+259.8909;Menu;TaskStart;24. Lilie
+260.9257;Menu;Hit;Pflanzen
+261.6742;Menu;Hit;Blumen
+262.8108;Menu;Hit;Lilie
+264.3062;Menu;TaskStart;25. Hut
+265.5527;Menu;Hit;Pflanzen
+266.4024;Menu;Hit;Dinge
+267.8211;Menu;Hit;Kleidung
+269.0881;Menu;Hit;Hut
+270.3159;Menu;TaskStart;26. Birke
+271.5687;Menu;Hit;Pflanzen
+272.6484;Menu;Hit;Bäume
+273.4844;Menu;Hit;Birke
+275.0166;Menu;TaskStart;27. Rabe
+276.2591;Menu;Hit;Tiere
+279.2247;Menu;Hit;Vögel
+280.2421;Menu;Hit;Rabe
+281.7217;Menu;TaskStart;28. Weide
+283.2231;Menu;Hit;Pflanzen
+284.4921;Menu;Hit;Bäume
+285.9718;Menu;Hit;Sträucher
+286.9889;Menu;Hit;Weide
+288.3695;Menu;TaskStart;29. Säge
+289.6257;Menu;Hit;Dinge
+290.6285;Menu;Hit;Werkzeug
+291.7233;Menu;Hit;Säge
+292.9089;Menu;TaskStart;30. Holunder
+293.9537;Menu;Hit;Pflanzen
+295.4211;Menu;Hit;Sträucher
+297.1045;Menu;Hit;Holunder

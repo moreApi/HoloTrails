@@ -1,0 +1,13 @@
+{
+	"configs": [
+	{
+		"name": "B4",
+		"zDistance": 2,
+		"targetDistance": 0.25,
+		"targetSize": 0.08,
+		"feedbackConditions": ["Glow"],
+		"selectionCondition": ["Dwell","0.500"],
+		"runs":25
+	}
+	]
+}

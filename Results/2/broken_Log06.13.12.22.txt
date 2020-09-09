@@ -1,0 +1,248 @@
+111.9939;Menu;Hit;Dinge
+113.9118;Menu;Hit;Essen
+114.9082;Menu;Hit;Brot
+116.8077;Menu;Hit;Nudeln
+118.3876;Menu;Hit;Werkzeug
+119.355;Menu;Hit;Nagel
+120.72;Menu;Hit;Kleidung
+122.0187;Menu;Hit;Pflanzen
+124.0662;Menu;Hit;Tiere
+126.4993;Menu;Hit;Säuger
+128.4178;Menu;Hit;Elefant
+129.8614;Menu;Hit;Pferd
+132.0439;Menu;Hit;Insekten
+140.0206;Menu;Hit;Pflanzen
+141.0356;Menu;Hit;Blumen
+142.5722;Menu;Hit;Lilie
+143.7337;Menu;Hit;Rose
+144.7678;Menu;Hit;Bäume
+145.7024;Menu;Hit;Eiche
+148.1317;Menu;Hit;Dinge
+150.0303;Menu;Hit;Dinge
+151.428;Menu;Hit;Pflanzen
+152.0943;Menu;Hit;Pflanzen
+154.0918;Menu;Hit;Tiere
+154.5128;Menu;Hit;Tiere
+162.1716;Menu;Hit;Dinge
+162.855;Menu;Hit;Dinge
+167.4972;Menu;Hit;Tiere
+169.596;Menu;Hit;Fische
+170.7329;Menu;Hit;Koi
+172.6623;Menu;Hit;Fische
+173.2256;Menu;Hit;Säuger
+174.2262;Menu;Hit;Säuger
+174.7912;Menu;Hit;Tiere
+187.2666;Menu;TaskStart;0. Schwan
+190.2887;Menu;Hit;Tiere
+193.2195;Menu;Hit;Vögel
+194.6069;Menu;Hit;Schwan
+196.2324;Menu;TaskStart;1. Weide
+197.5977;Menu;Hit;Pflanzen
+199.5157;Menu;Hit;Sträucher
+200.5178;Menu;Hit;Weide
+202.9434;Menu;TaskStart;2. Hobel
+204.08;Menu;Hit;Dinge
+205.294;Menu;Hit;Werkzeug
+206.6916;Menu;Hit;Hobel
+208.6231;Menu;TaskStart;3. Schnitzel
+210.1508;Menu;Hit;Dinge
+211.1831;Menu;Hit;Essen
+212.5517;Menu;Hit;Schnitzel
+218.1609;Menu;TaskStart;4. Hund
+220.7253;Menu;Hit;Tiere
+225.2548;Menu;Hit;Säuger
+227.6548;Menu;Hit;Hund
+229.402;Menu;TaskStart;5. Fahrrad
+231.9637;Menu;Hit;Dinge
+234.1484;Menu;Hit;Fahrzeuge
+235.1969;Menu;Hit;Fahrrad
+237.0941;Menu;TaskStart;6. Krokodil
+239.0302;Menu;Hit;Tiere
+241.8942;Menu;Hit;Reptilien
+243.1957;Menu;Hit;Krokodil
+245.5601;Menu;TaskStart;7. Weide
+250.6332;Menu;Hit;Pflanzen
+252.3306;Menu;Hit;Sträucher
+253.3613;Menu;Hit;Weide
+255.1268;Menu;TaskStart;8. Karpfen
+256.804;Menu;Hit;Tiere
+258.6668;Menu;Hit;Fische
+259.634;Menu;Hit;Karpfen
+261.3517;Menu;TaskStart;9. Goldfisch
+263.0518;Menu;Hit;Tiere
+264.3872;Menu;Hit;Fische
+266.1863;Menu;Hit;Goldfisch
+268.5981;Menu;TaskStart;10. Schwan
+269.7984;Menu;Hit;Tiere
+271.2969;Menu;Hit;Vögel
+272.614;Menu;Hit;Schwan
+283.1053;Menu;TaskStart;11. Krokodil
+284.89;Menu;Hit;Tiere
+286.1075;Menu;Hit;Reptilien
+287.3229;Menu;Hit;Krokodil
+290.7701;Menu;TaskStart;12. Schlange
+292.3167;Menu;Hit;Tiere
+293.4171;Menu;Hit;Reptilien
+294.3538;Menu;Hit;Schlange
+296.1327;Menu;TaskStart;13. Lineal
+297.3423;Menu;Hit;Dinge
+300.4398;Menu;Hit;Werkzeug
+301.6088;Menu;Hit;Lineal
+303.4701;Menu;TaskStart;14. Tanne
+304.7363;Menu;Hit;Pflanzen
+306.3532;Menu;Hit;Bäume
+307.6007;Menu;Hit;Tanne
+308.5176;Menu;TaskStart;15. Aal
+309.6461;Menu;Hit;Tiere
+311.545;Menu;Hit;Fische
+312.5448;Menu;Hit;Aal
+313.6285;Menu;TaskStart;16. Hose
+315.6215;Menu;Hit;Dinge
+316.9906;Menu;Hit;Kleidung
+318.9068;Menu;Hit;Hose
+320.4666;Menu;TaskStart;17. Nudeln
+324.3719;Menu;Hit;Dinge
+325.9212;Menu;Hit;Essen
+327.4213;Menu;Hit;Nudeln
+329.1699;Menu;TaskStart;18. Säge
+330.5412;Menu;Hit;Dinge
+331.4091;Menu;Hit;Werkzeug
+332.8894;Menu;Hit;Säge
+335.3034;Menu;TaskStart;19. Spinne
+336.8844;Menu;Hit;Tiere
+340.8334;Menu;Hit;Insekten
+342.8321;Menu;Hit;Spinne
+353.5069;Menu;TaskStart;20. Hut
+354.742;Menu;Hit;Dinge
+355.9565;Menu;Hit;Kleidung
+357.125;Menu;Hit;Hut
+369.363;Menu;TaskStart;21. Schnitzel
+370.496;Menu;Hit;Dinge
+371.947;Menu;Hit;Essen
+373.1655;Menu;Hit;Schnitzel
+374.7273;Menu;TaskStart;22. Koi
+376.1839;Menu;Hit;Tiere
+377.7012;Menu;Hit;Tiere
+380.6166;Menu;Hit;Tiere
+381.8806;Menu;Hit;Fische
+383.666;Menu;Hit;Koi
+386.2436;Menu;TaskStart;23. Holunder
+388.4435;Menu;Hit;Pflanzen
+392.3877;Menu;Hit;Blumen
+394.0088;Menu;Hit;Blumen
+395.1708;Menu;Hit;Sträucher
+397.0842;Menu;Hit;Holunder
+399.0182;Menu;TaskStart;24. Tanne
+400.4598;Menu;Hit;Pflanzen
+401.4623;Menu;Hit;Bäume
+403.5738;Menu;Hit;Tanne
+405.4725;Menu;TaskStart;25. Elefant
+406.9388;Menu;Hit;Tiere
+409.2704;Menu;Hit;Säuger
+411.0692;Menu;Hit;Elefant
+412.7538;Menu;TaskStart;26. Katze
+413.9416;Menu;Hit;Tiere
+414.9184;Menu;Hit;Säuger
+416.1366;Menu;Hit;Katze
+417.697;Menu;TaskStart;27. Krokodil
+419.4788;Menu;Hit;Tiere
+421.4768;Menu;Hit;Reptilien
+423.1909;Menu;Hit;Krokodil
+424.4215;Menu;TaskStart;28. Schlange
+425.7567;Menu;Hit;Tiere
+428.8859;Menu;Hit;Reptilien
+430.3013;Menu;Hit;Schlange
+433.531;Menu;TaskStart;29. Maus
+435.1052;Menu;Hit;Tiere
+436.3738;Menu;Hit;Säuger
+437.5374;Menu;Hit;Maus
+438.9364;Menu;TaskStart;30. Echse
+440.3433;Menu;Hit;Tiere
+442.0407;Menu;Hit;Reptilien
+443.3734;Menu;Hit;Echse
+458.5624;Menu;Hit;Säuger
+461.7223;Menu;TaskStart;31. Hut
+462.8565;Menu;Hit;Dinge
+464.0069;Menu;Hit;Kleidung
+465.0223;Menu;Hit;Hut
+467.2197;Menu;TaskStart;32. Krokodil
+468.4742;Menu;Hit;Tiere
+470.308;Menu;Hit;Reptilien
+471.2905;Menu;Hit;Krokodil
+472.4558;Menu;TaskStart;33. Karpfen
+473.5494;Menu;Hit;Tiere
+475.0182;Menu;Hit;Fische
+476.4183;Menu;Hit;Karpfen
+488.3374;Menu;TaskStart;34. Spatz
+489.3191;Menu;Hit;Tiere
+490.8041;Menu;Hit;Vögel
+493.0065;Menu;Hit;Spatz
+495.2192;Menu;TaskStart;35. Nagel
+497.6275;Menu;Hit;Dinge
+498.7774;Menu;Hit;Werkzeug
+500.0493;Menu;Hit;Nagel
+501.3753;Menu;TaskStart;36. Fahrrad
+502.4993;Menu;Hit;Dinge
+503.6508;Menu;Hit;Fahrzeuge
+505.5644;Menu;Hit;Fahrrad
+507.5467;Menu;TaskStart;37. Hobel
+508.8424;Menu;Hit;Dinge
+509.7305;Menu;Hit;Werkzeug
+511.4579;Menu;Hit;Hobel
+512.723;Menu;TaskStart;38. Säge
+514.197;Menu;Hit;Dinge
+515.0475;Menu;Hit;Werkzeug
+516.2486;Menu;Hit;Säge
+516.8185;Menu;TaskStart;39. Hammer
+518.0823;Menu;Hit;Dinge
+518.8502;Menu;Hit;Werkzeug
+520.5662;Menu;Hit;Hammer
+522.1626;Menu;TaskStart;40. Echse
+523.2657;Menu;Hit;Tiere
+524.1655;Menu;Hit;Reptilien
+525.2357;Menu;Hit;Echse
+534.7717;Menu;TaskStart;41. Hund
+535.4707;Menu;Hit;Tiere
+536.5039;Menu;Hit;Säuger
+538.0743;Menu;Hit;Hund
+539.1222;Menu;TaskStart;42. Hut
+540.5175;Menu;Hit;Dinge
+541.7015;Menu;Hit;Kleidung
+542.9832;Menu;Hit;Hut
+544.5488;Menu;TaskStart;43. Brot
+545.6473;Menu;Hit;Dinge
+546.8478;Menu;Hit;Essen
+547.914;Menu;Hit;Brot
+549.3453;Menu;TaskStart;44. Aal
+550.5621;Menu;Hit;Tiere
+552.511;Menu;Hit;Fische
+553.5746;Menu;Hit;Aal
+556.1552;Menu;TaskStart;45. Aal
+557.5732;Menu;Hit;Tiere
+558.6713;Menu;Hit;Fische
+559.9045;Menu;Hit;Aal
+561.1749;Menu;TaskStart;46. Katze
+562.8984;Menu;Hit;Tiere
+564.6153;Menu;Hit;Säuger
+564.665;Menu;Hit;Säuger
+565.8956;Menu;Hit;Katze
+567.1807;Menu;TaskStart;47. Birke
+568.9155;Menu;Hit;Pflanzen
+569.9496;Menu;Hit;Bäume
+571.0326;Menu;Hit;Birke
+572.1967;Menu;TaskStart;48. Goldfisch
+573.4846;Menu;Hit;Tiere
+574.7202;Menu;Hit;Fische
+575.7562;Menu;Hit;Goldfisch
+576.4171;Menu;TaskStart;49. Ahorn
+578.4404;Menu;Hit;Dinge
+579.7253;Menu;Hit;Fahrzeuge
+582.1385;Menu;Hit;Auto
+585.3851;Menu;Hit;Pflanzen
+586.4348;Menu;Hit;Blumen
+587.0509;Menu;Hit;Bäume
+589.0505;Menu;Hit;Ahorn
+590.1836;Menu;TaskStart;50. Auto
+591.5804;Menu;Hit;Dinge
+592.7791;Menu;Hit;Fahrzeuge
+594.5621;Menu;Hit;Auto

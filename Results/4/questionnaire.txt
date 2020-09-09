@@ -1,0 +1,83 @@
+#1 Alter (Zahl)
+46
+#2 Geschlecht (m/w)
+m
+#3 Sehhilfe (Ja/Nein)
+ja
+#4 Wie würdest du deine Technikaffinität einschätzen? (1 - gar nicht, 7 - sehr)
+7
+#5 War die Aufgabenstellung klar? (1 - gar nicht, 7 - sehr)
+6
+#6 Voherige Erfahrungen mit Virtual Reality / Augmented Reality / Eye Tracking / Head Tracking / HoloLens
+VR
+Eye Tracking
+
+### Die folgenden Fragen im Vergleich zu den jeweiligen anderen Techniken (Fokus,Geste,Clicker,Ohne Cursor) beantworten.
+##Fokusselektion (Lange auf einen Button gucken zum Auswählen)
+#f1 Wie ermüdend/anstrengend war die Technik? (1 - gar nicht, 7 - sehr)
+5
+#f2 Wie präzise fühlte sie sich an? (1 - gar nicht, 7 - sehr)
+6
+#f3 War es möglich mit der Technik schnell zu arbeiten? (1 - gar nicht, 7 - sehr)
+4
+#f4 Ist die Technik für den täglichen Gebrauch geeignet? (1 - gar nicht, 7 - sehr)
+5
+#f5 Kommentar
+
+
+
+##Gestenselektion (Handgeste zum Auswählen)
+#g1 Wie ermüdend/anstrengend war die Technik? (1 - gar nicht, 7 - sehr)
+5
+#g2 Wie präzise fühlte sie sich an? (1 - gar nicht, 7 - sehr)
+6
+#g3 War es möglich mit der Technik schnell zu arbeiten? (1 - gar nicht, 7 - sehr)
+6
+#g4 Ist die Technik für den täglichen Gebrauch geeignet? (1 - gar nicht, 7 - sehr)
+7
+#g5 Kommentar
+
+
+
+##Clikerselektion (Buttongerät zum Auswählen)
+#c1 Wie ermüdend/anstrengend war die Technik? (1 - gar nicht, 7 - sehr)
+2
+#c2 Wie präzise fühlte sie sich an? (1 - gar nicht, 7 - sehr)
+6
+#c3 War es möglich mit der Technik schnell zu arbeiten? (1 - gar nicht, 7 - sehr)
+6
+#c4 Ist die Technik für den täglichen Gebrauch geeignet? (1 - gar nicht, 7 - sehr)
+7
+#c5 Kommentar
+
+
+
+##Cursorlos (Kein Curser (Blauer Kreis) vorhanden)
+#o1 Wie ermüdend/anstrengend war die Technik? (1 - gar nicht, 7 - sehr)
+6
+#o2 Wie präzise fühlte sie sich an? (1 - gar nicht, 7 - sehr)
+3
+#o3 War es möglich mit der Technik schnell zu arbeiten? (1 - gar nicht, 7 - sehr)
+3
+#o4 Ist die Technik für den täglichen Gebrauch geeignet? (1 - gar nicht, 7 - sehr)
+4
+#o5 Kommentar
+Schwer Ziel zu halten.
+
+
+
+
+#k Allgemeine Kommentare
+Kein Menu aufgrund von überbelastung.
+
+
+
+
+
+
+
+#menu
+glow, cursor, grav - clicker - list
+glow, cursor - dwell 500 - list
+glow, cursor - clicker - list
+

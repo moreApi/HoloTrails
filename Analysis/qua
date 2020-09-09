@@ -1,0 +1,27 @@
+1: 28.875
+2: ['m', 'm', 'm', 'm', 'm', 'm', 'm', 'm']
+3: 0.5
+4: 6.5
+5: 6.875
+6: ['-', 'VR', '-', 'VREye Tracking', 'Eye Tracking', '-', 'VREye Tracking', '-']
+f1: 4.75
+f2: 5.0
+f3: 4.25
+f4: 3.875
+f5: [    'Geht bei großem Abstand und keinen Objekten dazwischen.',   'f4: Bedingt, nach Übung hat man sich sicherlich an die Technik gewöhnt und wird präziser beim Auswählen.']
+g1: 5.125
+g2: 3.875
+g3: 3.125
+g4: 3.5
+g5: [  'Detection schlecht.',  'Gestenerkennung schwierig, Arm nach vorne halten sehr anstrengend.', 'Kamerabewegung -> Hand aus dem Fokus verloren', 'teilweise mehrere Anläufe nötig', 'Es wird nach einiger Zeit sehr anstrengend, den Arm oben zu halten. Wenn man den Arm wieder herunternimmt, ist es sicherlich nicht so anstregend, aber das habe ich im Experiment nicht probiert, da ich nicht wusste, ob die Zeit dafür ausreicht.']
+c1: 2.0
+c2: 6.375
+c3: 6.125
+c4: 6.125
+c5: [       '']
+o1: 5.5
+o2: 3.0
+o3: 2.375
+o4: 2.375
+o5: [  'Diagonalen sind schwer.', 'Schwer Ziel zu halten.', 'Geht nur bei sehr großen Zielen', 'Kein Feedback, bevor das Ziel erreicht wurde. Macht den gebrauch eher nervig.',  'Nach einigem Üben wird man sicherlich auch hier besser, aber ich empfand die Selektion schon als sehr schwer durchzuführen.']
+k: [ 'Sound ist ganz parktisch.Kombination von Sound, Leuchten und Cursor ist gut. Beim Menü finde ich Liste besser (Weniger Kopfbewegungen notwendig)', 'Tonsignal hilftSnapen war gut', 'Kein Menu aufgrund von überbelastung.',  'HoloLens ist schwierig zu fixieren, wenn Sehbrille getragen wird.',  '*Siehe Kommentare oben.* Leuchten ist einfacher. (Glow feedback)* Clicker > Geste > Fokus* Das Tragen des Gerätes war zunächst sehr angenehm. Der Komfort hat sich dann aber zunehmend verschlechtet und letztendlich in einen roten Abdruck auf der Stirn resultiert.* Die Technik und ihr Einsatz machen Spaß, allerdings ist sie wohl noch nicht alltagstauglich.']
